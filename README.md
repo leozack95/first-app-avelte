@@ -101,5 +101,5 @@ Then, from within your project folder:
 ```bash
 npm run build
 surge public my-project.surge.sh
-DIO MIO9999999999999999999999999999999999999999999
+DIO JAVA
 ```
